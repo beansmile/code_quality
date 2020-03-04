@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
   spec.add_dependency "bundler-audit"
   spec.add_dependency "brakeman"
   spec.add_dependency "rubycritic", "~> 3.5.0"
-  spec.add_dependency "rubocop", "~> 0.59.0"
+  spec.add_dependency "rubocop", "~> 0.63.0"
   spec.add_dependency "rubocop-github", "~> 0.12.0"
   spec.add_dependency "code_metric_fu", "~> 4.14.4"
 
